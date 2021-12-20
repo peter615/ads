@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
   <groupId>com.fnmobi</groupId>
-  <artifactId>f23-mbnativ</artifactId>
+  <artifactId>f23-mbnative</artifactId>
   <versioning>
     <release>1.0</release>
     <versions>
       <version>1.0</version>
     </versions>
-    <lastUpdated>20211220073502</lastUpdated>
+    <lastUpdated>20211220110116</lastUpdated>
   </versioning>
 </metadata>
