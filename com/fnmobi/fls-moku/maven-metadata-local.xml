@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
   <groupId>com.fnmobi</groupId>
-  <artifactId>f7</artifactId>
+  <artifactId>fls-moku</artifactId>
   <versioning>
-    <release>3.5.0.1</release>
+    <release>1.2.9</release>
     <versions>
-      <version>3.5.0.1</version>
+      <version>1.2.9</version>
     </versions>
-    <lastUpdated>20211220073347</lastUpdated>
+    <lastUpdated>20211220073526</lastUpdated>
   </versioning>
 </metadata>
